@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# 3dModel Dancing Pikachu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was about creating an animation in React-three with an model from Blender.
+I chose to give Pikachu the option to dance around the screen.
 
 ## Available Scripts
 
